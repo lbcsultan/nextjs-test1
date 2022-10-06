@@ -13,9 +13,8 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <Link href="about">About</Link>
-        <Link href="profile">Profile</Link>
         <h1 className={styles.title}>Hello World!</h1>
+        <p>안녕하세요.</p>
       </main>
     </div>
   )
